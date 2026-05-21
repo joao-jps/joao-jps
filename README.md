@@ -2,7 +2,7 @@
 
 💻 Estudante de Engenharia de Software 
 
-🚀 Desenvolvedor Front-End e BackEnd
+🚀 Desenvolvedor Web
 
 📚 Estudando HTML, CSS, JavaScript, Python, C++, Node.js, React.js e SQL
 
