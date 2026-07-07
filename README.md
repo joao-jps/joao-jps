@@ -27,33 +27,15 @@ Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aprender c
 
 ### Linguagens
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+## 💻 Tecnologias
 
-### Back-End
+**Back-End:** Java, Spring Boot, Python
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
+**Banco de Dados:** MySQL, PostgreSQL, SQL
 
-### Banco de Dados
+**Front-End:** HTML, CSS, JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,idea,postman" />
-</p>
+**Ferramentas:** Git, GitHub, IntelliJ IDEA, VS Code, Postman
 
 ---
 # 📚 Atualmente estudando
