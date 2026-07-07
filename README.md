@@ -89,16 +89,6 @@ Landing Page desenvolvida para apresentar meus projetos, competências e trajet�
 
 ---
 
-# 🌎 Idiomas
-
-🇧🇷 Português — Nativo
-
-🇺🇸 Inglês — C2 (Proficient)
-
-🇪🇸 Espanhol — A2
-
----
-
 # 📫 Contato
 
 <p>
@@ -112,10 +102,6 @@ jujp.souza@gmail.com
 💼 **LinkedIn**
 
 https://www.linkedin.com/in/joaojps/
-
-💻 **GitHub**
-
-https://github.com/joao-jps
 
 🌐 **Portfólio**
 
