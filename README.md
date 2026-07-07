@@ -34,7 +34,7 @@ Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aprender c
 ### Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Banco de Dados
@@ -56,38 +56,31 @@ Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aprender c
 </p>
 
 ---
+# 📚 Atualmente estudando
 
+- Spring Boot
+- APIs REST
+- SQL
+- Arquitetura Back-End
+- Boas práticas de código
+- Clean Code
+- Git e GitHub
+- Estruturas de Dados
+
+**Sinta-se à vontade para acompanhar minha evolução.**
+
+---
 # 📂 Projetos em Destaque
 
 ### 📌 Task Manager
 
 Sistema de gerenciamento de tarefas desenvolvido em **Java**, permitindo:
 
-- Adicionar tarefas
-- Consultar tarefas
-- Editar tarefas
-- Concluir tarefas
-- Remover tarefas
-
-**Conceitos utilizados**
-
-- Programação Orientada a Objetos (POO)
-- Encapsulamento
-- Organização de código
-- Manipulação de listas
-
 ---
 
 ### 🔥 OrbitMax Sentinel
 
 Sistema de monitoramento de queimadas em tempo real.
-
-Tecnologias utilizadas:
-
-- Python
-- ESP32 (C++)
-- APIs REST
-- Landing Page em JavaScript
 
 ---
 
@@ -101,20 +94,6 @@ Protótipo de câmera inteligente com integração de Inteligência Artificial e
 
 Landing Page desenvolvida para apresentar meus projetos, competências e trajetória profissional.
 
----
-
-# 📚 Atualmente estudando
-
-- Spring Boot
-- APIs REST
-- SQL
-- Arquitetura Back-End
-- Boas práticas de código
-- Clean Code
-- Git e GitHub
-- Estruturas de Dados
-
-Sinta-se à vontade para acompanhar minha evolução.
 ---
 
 # 🌎 Idiomas
