@@ -99,21 +99,6 @@ Landing Page desenvolvida para apresentar meus projetos, competências e trajet�
 
 ---
 
-# 🎯 Competências
-
-- 🧠 Aprendizado contínuo
-- 🚀 Proatividade
-- 🤝 Trabalho em equipe
-- 📈 Organização
-- 🔍 Pensamento analítico
-- 💬 Comunicação
-- 🎯 Foco em resultados
-- 📚 Facilidade para aprender novas tecnologias
-- ⚡ Adaptabilidade
-- ✅ Responsabilidade
-
----
-
 # 📫 Contato
 
 <p>
