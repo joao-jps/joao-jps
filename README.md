@@ -65,9 +65,9 @@ Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aprender c
 ---
 # 📂 Projetos em Destaque
 
-### 📌 Task Manager
+### 📌 Sistema Folha de Pagamento
 
-Sistema de gerenciamento de tarefas desenvolvido em **Java**, permitindo:
+Sistema de Folha de Pagamento desenvolvido em **Java** puro sem Frameworks visando a prática de conceitos importantes de POO, como: herança, polimorfismo, encapsulamento, métodos e classes
 
 ---
 
