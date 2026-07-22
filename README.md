@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou João Pedro de Souza 👋</h1>
 
 <h3 align="center">
-Software Engineer • Back-End Developer • Java • Spring Boot
+Software Engineer • Java • Spring Boot
 </h3>
 
 <p align="center">
