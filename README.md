@@ -1,113 +1,68 @@
-<h1 align="center">Olá, eu sou João Pedro de Souza 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Java • Spring Boot
-</h3>
+# Olá, eu sou João Pedro de Souza 👋
 
-<p align="center">
-💻 Estudante de Engenharia de Software na FIAP <br>
-🚀 Interessado em Desenvolvimento Back-End, APIs e arquitetura de software.
-</p>
+### Estudante de Engenharia de Software • Back-End • Java & Spring Boot
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Desenvolvimento+Back-End+%7C+APIs+REST;Java+%2B+Spring+Boot+%2B+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaojps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaojps/)
+[![Email](https://img.shields.io/badge/Email-jujp.souza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jujp.souza@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-joao--jps.github.io-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joao-jps.github.io/portfolio-joaojps/)
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou estudante de Engenharia de Software na **FIAP**, com foco em desenvolvimento **Back-End**.
+Estou construindo minha base técnica com **Java**, **Python** e **SQL**, aplicando boas práticas de orientação a objetos e código limpo em projetos próprios e acadêmicos.
+
+Meu objetivo é conquistar uma oportunidade de **estágio em Back-End**, onde eu possa aprender com profissionais experientes e contribuir com soluções que gerem impacto real — com foco especial no setor bancário e fintech.
 
 ---
 
-## 👨‍💻 Sobre mim
+### 🛠️ Tecnologias
 
-Sou estudante de **Engenharia de Software** na **FIAP**, com foco em desenvolvimento **Back-End**.
+**Back-End**
 
-Tenho forte entusiasmo em construir aplicações escaláveis utilizando **Java**, **Spring Boot**, **Python**, **SQL** e boas práticas de desenvolvimento orientado a objetos.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Atualmente estou fortalecendo minha base técnica através de projetos próprios e acadêmicos, sempre buscando escrever código limpo, aprender novas tecnologias e evoluir continuamente como desenvolvedor.
+**Banco de Dados**
 
-Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aprender com profissionais experientes e contribuir com soluções que gerem impacto real.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
-### 💻 Tecnologias
+**Front-End**
 
-**☕ Back-End**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Ferramentas**
 
-**🗄️ Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
-
-**🎨 Front-End**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**🛠️ Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
-# 📚 Atualmente estudando
 
-- Spring Boot
-- APIs REST
-- SQL
-- Arquitetura Back-End
-- Boas práticas de código
-- Clean Code
-- Git e GitHub
+### 📚 Atualmente estudando
+
+- Spring Boot & APIs REST
+- Arquitetura Back-End e Clean Code
 - Estruturas de Dados
-
-**Sinta-se à vontade para acompanhar minha evolução.**
-
----
-# 📂 Projetos em Destaque
-
-### 📌 Sistema Folha de Pagamento
-
-Sistema de Folha de Pagamento desenvolvido em **Java** puro sem Frameworks visando a prática de conceitos importantes de POO, como: herança, polimorfismo, encapsulamento, métodos e classes
-
+- React & Node.js
+- AWS 
 ---
 
-### 🔥 OrbitMax Sentinel
+<div align="center">
 
-Sistema de monitoramento de queimadas em tempo real.
+📫 **Vamos conversar?** Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/joaojps/) ou por [e-mail](mailto:jujp.souza@gmail.com).
 
----
-
-### 🤖 Jovi Vision Proto
-
-Protótipo de câmera inteligente com integração de Inteligência Artificial e APIs utilizando Python.
-
----
-
-### 🌐 Portfólio Pessoal
-
-Landing Page desenvolvida para apresentar meus projetos, competências e trajetória profissional.
-
----
-
-# 📫 Contato
-
-<p>
-
-📧 **Email**
-
-<a href="mailto:jujp.souza@gmail.com">
-jujp.souza@gmail.com
-</a>
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/joaojps/
-
-🌐 **Portfólio**
-
-https://joao-jps.github.io/portfolio-joaojps/
-
-</p>
-
----
-
+</div>
