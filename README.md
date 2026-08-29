@@ -17,7 +17,7 @@
 ### 👨‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software na **FIAP**, com foco em desenvolvimento **Back-End**.
-Estou construindo minha base técnica com **Java**, **Python** e **SQL**, aplicando boas práticas de orientação a objetos e código limpo em projetos próprios e acadêmicos.
+Estou construindo minha base técnica com **Java**, **Python**, **SQL** e **Cloud**, aplicando boas práticas de orientação a objetos e código limpo em projetos próprios e acadêmicos.
 
 Meu objetivo é conquistar uma oportunidade de **estágio em Back-End**, onde eu possa aprender com profissionais experientes e contribuir com soluções que gerem impacto real — com foco especial no setor bancário e fintech.
 
