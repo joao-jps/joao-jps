@@ -57,4 +57,12 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Back-End**, onde eu
 - Fundamentos avançados de Spring, Spring Security e Spring Data JPA
 - Autenticação e autorização com JWT
 - Aprofundamento em AWS
-- Aprofundamento em desenvolvimento de
+- Aprofundamento em desenvolvimento de APIs REST
+
+---
+
+<div align="center">
+
+**Vamos conversar?** Fique à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/joaojps/) ou por [e-mail](mailto:jujp.souza@gmail.com).
+
+</div>
