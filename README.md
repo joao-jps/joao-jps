@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou João Pedro de Souza 👋
+# João Pedro de Souza
 
 ### Estudante de Engenharia de Software • Back-End • Java & Spring Boot
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=560&lines=Desenvolvimento+Back-End+%7C+APIs+REST;Java+%2B+Spring+Boot+%2B+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=2E86DE&center=true&vCenter=true&width=600&height=50&lines=Desenvolvimento+Back-End+%7C+APIs+REST;Java+%2B+Spring+Boot+%2B+MySQL+%2B+AWS;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaojps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaojps/)
 [![Email](https://img.shields.io/badge/Email-jujp.souza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jujp.souza@gmail.com)
@@ -14,16 +14,15 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Sou estudante de Engenharia de Software na **FIAP**, com foco em desenvolvimento **Back-End**.
-Estou construindo minha base técnica com **Java**, **Python**, **SQL** e **Cloud**, aplicando boas práticas de orientação a objetos e código limpo em projetos próprios e acadêmicos.
-
-Meu objetivo é conquistar uma oportunidade de **estágio em Back-End**, onde eu possa aprender com profissionais experientes e contribuir com soluções que gerem impacto real — com foco especial no setor bancário e fintech.
+Estou construindo minha base técnica com **Java**, **Spring Boot**, **SQL** e **Cloud**, aplicando boas práticas de orientação a objetos e código limpo em projetos próprios e acadêmicos.
+Meu objetivo é conquistar uma oportunidade de **estágio em Back-End**, onde eu possa aprender com profissionais experientes e contribuir com soluções que gerem impacto real, com foco especial no setor bancário e fintech.
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 **Back-End**
 
@@ -48,21 +47,14 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Back-End**, onde eu
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
-- Spring Boot & APIs REST
-- Arquitetura Back-End e Clean Code
-- Estruturas de Dados
-- React & Node.js
-- AWS 
----
-
-<div align="center">
-
-📫 **Vamos conversar?** Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/joaojps/) ou por [e-mail](mailto:jujp.souza@gmail.com).
-
-</div>
+- Fundamentos avançados de Spring, Spring Security e Spring Data JPA
+- Autenticação e autorização com JWT
+- Aprofundamento em AWS
+- Aprofundamento em desenvolvimento de
