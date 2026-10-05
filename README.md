@@ -29,7 +29,7 @@ Sou estudante de **Engenharia de Software na FIAP** localizada em São Paulo na 
 
 ## 🛠️ Tecnologias
 
-### 🎯 Foco principal
+### 🎯 Stack principal
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws&theme=dark" />
 
 ### ✅ Uso no dia a dia
