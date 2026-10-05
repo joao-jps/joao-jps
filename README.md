@@ -9,9 +9,8 @@
 
 <br/>
 
-<a href="https://joao-jps.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0f2027?style=for-the-badge&logo=githubpages&logoColor=5EEAD4" /></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-0f2027?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
+<a href="https://www.linkedin.com/in/joaojps"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
+<a href="mailto:jujpsouza@gmail.com"><img src="https://img.shields.io/badge/E--mail-0f2027?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
 
 </div>
 
