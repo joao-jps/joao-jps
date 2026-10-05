@@ -32,10 +32,10 @@ Sou estudante de **Engenharia de Software na FIAP** localizada em São Paulo na 
 ### 🎯 Stack principal
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws&theme=dark" />
 
-### ✅ Uso no dia a dia
+### ✅ Ferramentas utilizadas no dia a dia
 <img src="https://skillicons.dev/icons?i=maven,docker,git,github,postman,hibernate,mysql&theme=dark" />
 
-`Java (OOP)` · `APIs REST` · `JPA/Hibernate` · `Maven` · `Docker` · `Postman` · `SQL`
+ `APIs REST` · `JPA/Hibernate` · `Maven` · `Docker` · `Postman` · `SQL`
 
 ### 📚 Também já usei
 <img src="https://skillicons.dev/icons?i=python,sqlite,html,css,js&theme=dark" />
@@ -48,18 +48,6 @@ Sou estudante de **Engenharia de Software na FIAP** localizada em São Paulo na 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-em_breve-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=joao-jps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5EEAD4&icon_color=5EEAD4" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5EEAD4" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
