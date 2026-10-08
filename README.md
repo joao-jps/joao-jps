@@ -21,9 +21,8 @@
 Sou estudante de **Engenharia de Software na FIAP** localizada em São Paulo na região da Avenida Paulista e estou construindo minha carreira em **Engenharia de Software**, direcionando meus estudos a **desenvolimento backend**.
 
 - ☕ Desenvolvo projetos com foco em **Desenvolvimento e consumo de APIs REST com Java + spring Boot**, **Estudando microserviços** e **Projetos práticos contendo Docker e AWS**
-- 🏦 Pratico com projetos de domínio financeiro, como um mini sistema bancário (contas, depósitos, saques e transferências)
-- 🔎 Procurando **estágio em desenvolvimento**
-- 🌎 Inglês fluente · Português nativo · Espanhol básico 
+- 🏦 Prático com projetos de domínio financeiro, como um mini sistema bancário (contas, depósitos, saques e transferências)
+- 🌎 Inglês fluente · Português nativo 
 
 ---
 
