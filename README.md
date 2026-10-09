@@ -1,11 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=João%20Pedro%20De%20Souza&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20•%20Back-end%20•%20Fintech&descSize=16&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=João%20Pedro%20De%20Souza&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20•%20Back-end%20&descSize=16&descAlignY=60" alt="Header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=5EEAD4&center=true&vCenter=true&width=620&lines=Back-end+com+Java+%2B+Spring+Boot;Foco+em+bancos+e+fintechs;Estudando+AWS+e+PostgreSQL;Em+busca+de+est%C3%A1gio+em+desenvolvimento" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
@@ -18,10 +16,10 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Engenharia de Software na FIAP** localizada em São Paulo na região da Avenida Paulista e estou construindo minha carreira em **Engenharia de Software**, direcionando meus estudos a **desenvolimento backend**.
+Sou estudante de **Engenharia de Software na FIAP** localizada em São Paulo e estou construindo minha carreira como **Engenheiro de Software**.
 
-- ☕ Desenvolvo projetos com foco em **Desenvolvimento e consumo de APIs REST com Java + spring Boot**, **Estudando microserviços** e **Projetos práticos contendo Docker e AWS**
-- 🏦 Prático com projetos de domínio financeiro, como um mini sistema bancário (contas, depósitos, saques e transferências)
+- ☕ Desenvolvo projetos com foco em **Desenvolvimento e consumo de APIs REST com Java + Spring Boot**, **Estudando microserviços** e **Projetos práticos contendo Docker e AWS**
+- 🏦 Atualmente pratíco com projetos práticos para construir experiência e me desenvolver como Engenheiro de Software
 - 🌎 Inglês fluente · Português nativo 
 
 ---
